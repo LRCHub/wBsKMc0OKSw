@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "Boom Boom Bass",
+  "base_artist": "RIIZE",
+  "createdAt": "2026-01-13T23:32:18.772494Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Boom Boom Bass",
+      "artist": "RIIZE",
+      "has_synced": true,
+      "path": "select/01_Boom_Boom_Bass_RIIZE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Boom Boom Bass",
+      "artist": "RIIZE",
+      "has_synced": true,
+      "path": "select/02_Boom_Boom_Bass_RIIZE.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Boom Boom Bass",
+      "artist": "RIIZE",
+      "has_synced": true,
+      "path": "select/03_Boom_Boom_Bass_RIIZE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Boom Boom Bass",
+      "artist": "RIIZE",
+      "has_synced": true,
+      "path": "select/04_Boom_Boom_Bass_RIIZE.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Boom Boom Bass - Arkins Remix",
+      "artist": "RIIZE",
+      "has_synced": false,
+      "path": "select/05_Boom_Boom_Bass_-_Arkins_Remix_RIIZE.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Boom Boom Bass",
+      "artist": "RIIZE",
+      "has_synced": true,
+      "path": "select/06_Boom_Boom_Bass_RIIZE.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Boom Boom Bass (Arkins Remix)",
+      "artist": "RIIZE",
+      "has_synced": true,
+      "path": "select/07_Boom_Boom_Bass_(Arkins_Remix)_RIIZE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Boom Boom Bass",
+      "artist": "RIIZE",
+      "has_synced": false,
+      "path": "select/pl_01_Boom_Boom_Bass_RIIZE.txt"
+    }
+  ]
+}
